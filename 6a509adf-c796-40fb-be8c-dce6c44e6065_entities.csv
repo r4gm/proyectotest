@@ -1,0 +1,41 @@
+apple,ipad
+apple,apple watch
+apple,iphone
+arduino,arduino
+compu,SSD,Disco Duro de Estado Solido
+compu,computadora,equipo de computo,laptop,pc,compu,ordenador
+compu,RAM,Random Access Memory,Acceso de memoria aleatorio
+compu,procesador,procesador intel,procesador AMD,microprocesador
+compu,OS,Sistema Operativo,Windows,Mac,Linux
+compu,HDD,Disco Duro,Disco Duro de Estado Solido,Almacenamiento de la computadora
+compu,monitor,monitor,pantalla de computadora,pantalla para computadora,display de computadora
+compu,Datos,data
+compu,memoria
+compu,microprocesador
+datos,bit
+datos,terabyte,TB
+datos,byte
+datos,megabyte,MB
+datos,gigabyte,GB
+datos,dato
+formato,formato
+redes,LAN
+redes,wifi,wi-fi,red inalambrica
+redes,Red Celular,Red de Datos celulares,Redes de telefonia,Telecomunicaciones
+redes,PoE,Alimenacion de Ethernet,Alimentacion por cable de Red,Power over Ethernet
+redes,red,red local,lan,conexion entre dispositivos
+redes,frecuencia
+redes,internet,wan
+redes,Router,ruteador
+redes,IoT,internet de las cosas
+redes,Telecomunicaciones
+sensores,Sensor
+sensores,realidad aumentada,AR,RA
+sensores,realidad virtual,VR,RV
+Smart,asistente virtual,virtual assistant,siri,alexa,google assistant,tu
+Smart,smart tv,smart tv,television inteligente,televisiones actuales
+Smart,smart,inteligente
+Smart,Dispositivo
+Smart,smart phone,telefono inteligente,telefonos actuales
+tecnologia,tecnologia
+tecnologia,tecnologia de punta
